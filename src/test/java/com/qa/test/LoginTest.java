@@ -10,4 +10,8 @@ public class LoginTest {
 	public void test() {
 		System.out.println("Test1");
 	}
+	
+		public void test1() {
+		System.out.println("Test1");
+	}
 }
